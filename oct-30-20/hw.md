@@ -1,4 +1,4 @@
-# Homework
+# Homework **due: 1 week (11/6/20)**
 - Create a github account.
 - Create a repository for your tutoring assignments.
 - Must include:
