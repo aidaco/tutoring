@@ -1,0 +1,12 @@
+# Homework
+- Create a github account.
+- Create a repository for your tutoring assignments.
+- Must include:
+    - README
+    - License
+    - .gitignore
+- In a folder specific to today's HW create a python file with the following:
+- A function that prints all elements of an iterator on new lines.
+- A function that combines two iterators by alternating elements.
+- A function that seperates a list into two by alternating elements.
+- A function testing the other 3.

@@ -32,5 +32,9 @@
 - Things like pycache, settings, password files
 
 ## Branching
-- git branch BRANCH-NAME
-
+- ### Create New Branch
+- git branch BRANCH_NAME
+- ### List Branches
+- git branch
+- ### Switch to Branch
+- git checkout BRANCH_NAME
